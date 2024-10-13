@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋,  I'm Vinuya Ekanayake</h1>
-<img src="/Users/chamikamunithunga/Desktop/vinu.jpeg">
+<img src="">
 
  
 <h3 align="center">Enthusiastic web developer specializing in crafting intuitive and engaging user experiences, with a focus on leveraging AI to drive innovation and excellence.</h3> 
