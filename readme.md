@@ -1,4 +1,7 @@
  <h1 align="center">Hi 👋,  I'm Vinuya Ekanayake</h1>
+<img src="/Users/chamikamunithunga/Desktop/vinu.jpeg">
+
+ 
 <h3 align="center">Enthusiastic web developer specializing in crafting intuitive and engaging user experiences, with a focus on leveraging AI to drive innovation and excellence.</h3> 
 
 
@@ -24,20 +27,9 @@
 <h2 align="center">Technology Stack <img src="https://github.com/VinuyaE/VinuyaE/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,php,py,dart,flutter,c,cs,dotnet,azure,git,github,tailwind,bootstrap,mysql,firebase,idea,eclipse,androidstudio,vscode,visualstudio,figma&theme=dark&perline=13"/>
+ </a>
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
