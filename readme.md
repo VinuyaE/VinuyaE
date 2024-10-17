@@ -42,8 +42,8 @@
 <a href="mailto: vinuyae2005@gmail.com">
  <img src="https://img.shields.io/badge/-VinuyaE-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinuyae2005@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/VinuyaE-rawal-698a18142/">
- <img src="https://img.shields.io/badge/-VinuyaE-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/VinuyaE-rawal-698a18142/"/>
+<a href="https://www.linkedin.com/in/VinuyaE-rawal-698a18142">
+ <img src="https://img.shields.io/badge/-VinuyaE-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/VinuyaE-rawal-698a18142"/>
 </a>
  <a href="https://twitter.com/VinuyaE">
  <img src="https://img.shields.io/badge/-VinuyaE-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/VinuyaE"/>
